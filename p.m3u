@@ -1,0 +1,476 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 xui-id="114192" tvg-id="MovistarAccion.es" tvg-name="ES: M. ACCION FHD" tvg-logo="" group-title="ES | CINE",ES: M. ACCION FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9watinQDXCWNZXb-jGGn6rcA8/ts
+#EXTINF:-1 xui-id="114193" tvg-id="MACCIHD" tvg-name="ES: M. ACCION HD" tvg-logo="http://tv4k.me:80/images/J29ETnYF-hFNtcZP9J35wmN0wdqOH6yOXKhhiLMmMwylmkHZWudwZ4NqO0aOlhObKJcSrjCeO18TgrgC65pXO4GX6tYsOG8UCEcLVNaPkOG5DKMiYB54aZJ7rrOSXZIyNC5MSQgdob9g5luz1lXlYZQx85_XO3udl7ijvjeZo9M.png" group-title="ES | CINE",ES: M. ACCION HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waotK2IYWZRXejbIqDktHTJ4/ts
+#EXTINF:-1 xui-id="114194" tvg-id="MovistarAccion.es" tvg-name="ES: M. ACCION SD" tvg-logo="" group-title="ES | CINE",ES: M. ACCION SD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wan9V3qiN9fOVpN4x7nq6zGw/ts
+#EXTINF:-1 xui-id="114195" tvg-id="MovistarEstrenos.es" tvg-name="ES: M. ESTRENOS FHD" tvg-logo="" group-title="ES | CINE",ES: M. ESTRENOS FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wapfTLhWK2rMiTlb8T5LeN4M/ts
+#EXTINF:-1 xui-id="114196" tvg-id="MovistarEstrenos.es" tvg-name="ES: M. ESTRENOS HD" tvg-logo="" group-title="ES | CINE",ES: M. ESTRENOS HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wagW56xxsZTGIxE0rDhx-uTc/ts
+#EXTINF:-1 xui-id="114197" tvg-id="MovistarEstrenos.es" tvg-name="ES: M. ESTRENOS 2 FHD" tvg-logo="" group-title="ES | CINE",ES: M. ESTRENOS 2 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wapaHgXjQp1u_7np_C8kKKYg/ts
+#EXTINF:-1 xui-id="114198" tvg-id="Movistar DCine ES" tvg-name="ES: M. DRAMA FHD" tvg-logo="" group-title="ES | CINE",ES: M. DRAMA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waqXhX2IRgJHxZrXIQdQbIbY/ts
+#EXTINF:-1 xui-id="114199" tvg-id="Movistar DCine ES" tvg-name="ES: M. DRAMA HD" tvg-logo="" group-title="ES | CINE",ES: M. DRAMA HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wanJNm74kxnYNosAIoJMF5Q8/ts
+#EXTINF:-1 xui-id="114200" tvg-id="1" tvg-name="ES: M. COMEDIA FHD" tvg-logo="" group-title="ES | CINE",ES: M. COMEDIA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wajIGKjKDQ8Ri2MlEwLjdYcQ/ts
+#EXTINF:-1 xui-id="114201" tvg-id="MovistarComedia.es" tvg-name="ES: M. COMEDIA HD" tvg-logo="" group-title="ES | CINE",ES: M. COMEDIA HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wav-cbBgKvd7zpCMyL_GJn50/ts
+#EXTINF:-1 xui-id="114202" tvg-id="" tvg-name="ES: M. SERIES FHD" tvg-logo="" group-title="ES | CINE",ES: M. SERIES FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9war5s7H5DTuLyRdJ0CJUB4ws/ts
+#EXTINF:-1 xui-id="114203" tvg-id="Movistar Series Xtra ES" tvg-name="ES: M. SERIES HD" tvg-logo="" group-title="ES | CINE",ES: M. SERIES HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wagZg3x1hWnQrLRf-2ZN_gT4/ts
+#EXTINF:-1 xui-id="114204" tvg-id="MovistarSeries.es" tvg-name="ES: M. SERIES 2 FHD" tvg-logo="" group-title="ES | CINE",ES: M. SERIES 2 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9warEjrHEsx4J0RTD-C05CPNA/ts
+#EXTINF:-1 xui-id="114205" tvg-id="MovistarSeries.es" tvg-name="ES: M. SERIES 2 HD" tvg-logo="" group-title="ES | CINE",ES: M. SERIES 2 HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wam5M0mjdkNJjfehMumScLQ4/ts
+#EXTINF:-1 xui-id="114206" tvg-id="MovistarCineEspanol.es" tvg-name="ES: M. CINE ESPANOL FHD" tvg-logo="" group-title="ES | CINE",ES: M. CINE ESPANOL FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9walb3EgyaM3jO7WrD4EPYJ8U/ts
+#EXTINF:-1 xui-id="114207" tvg-id="MovistarCineEspanol.es" tvg-name="ES: M. CINE ESPANOL HD" tvg-logo="" group-title="ES | CINE",ES: M. CINE ESPANOL HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wapnhrW4yZera3KQ12m7l5KM/ts
+#EXTINF:-1 xui-id="114208" tvg-id="Hollywood.es" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="" group-title="ES | CINE",ES: HOLLYWOOD FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9walkxnymyS7Y5q0HR0kab_FM/ts
+#EXTINF:-1 xui-id="114209" tvg-id="AXNWESP" tvg-name="ES: AXN WHITE FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUac2uThnoIIJBSJV-wBUPmzEnsHAHbugc_Mv7VDse-rNH4HMDAkOBClKIX_sjWDp2cg.png" group-title="ES | CINE",ES: AXN WHITE FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waqw5tUCS26zahHxUvLawimU/ts
+#EXTINF:-1 xui-id="114210" tvg-id="AXNWESP" tvg-name="ES: AXN WHITE HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUac2uThnoIIJBSJV-wBUPmzEnsHAHbugc_Mv7VDse-rNH4HMDAkOBClKIX_sjWDp2cg.png" group-title="ES | CINE",ES: AXN WHITE HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9walg8wZSp5hD4k8G5GLIXO8k/ts
+#EXTINF:-1 xui-id="114211" tvg-id="AXNWESP" tvg-name="ES: AXN WHITE SD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUac2uThnoIIJBSJV-wBUPmzEnsHAHbugc_Mv7VDse-rNH4HMDAkOBClKIX_sjWDp2cg.png" group-title="ES | CINE",ES: AXN WHITE SD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9watqJQjgZNXaED8dzmVJndUc/ts
+#EXTINF:-1 xui-id="114212" tvg-id="AXNARGH" tvg-name="ES: AXN FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaeqdBZV2lWo0sv-Jwwnpgsy0v95nc_FkfcQk6y4fs2Dj.png" group-title="ES | CINE",ES: AXN FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wanPIY9KPyuPbDWdNW69dJvM/ts
+#EXTINF:-1 xui-id="114213" tvg-id="AXNAHA" tvg-name="ES: AXN HD" tvg-logo="http://tv4k.me:80/images/J29ETnYF-hFNtcZP9J35wmN0wdqOH6yOXKhhiLMmMwylmkHZWudwZ4NqO0aOlhObd7ORJhExZEXtTR8kxpzIZHHruMy2WuXO3O1OLUH1_gPSneEbnG3ZGMu4kwbf8Ge63JWo1Yw9NmKUL3ERnBDBbYy05sil2awBBZoguxpfzRY.png" group-title="ES | CINE",ES: AXN HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wag4kWBTAfe4lbvmV7PraMjQ/ts
+#EXTINF:-1 xui-id="114214" tvg-id="AXNARGH" tvg-name="ES: AXN SD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaeqdBZV2lWo0sv-Jwwnpgsy0v95nc_FkfcQk6y4fs2Dj.png" group-title="ES | CINE",ES: AXN SD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9watGrLlQeooOEUR7ClqAIv6c/ts
+#EXTINF:-1 xui-id="114215" tvg-id="HOLLYWOOD" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="" group-title="ES | CINE",ES: HOLLYWOOD FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wahpqqzaVTjmkctw9DdI0joc/ts
+#EXTINF:-1 xui-id="114217" tvg-id="SYFYLAH" tvg-name="ES: SYFY FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaSGS79a_8FYNl4IoU1uCSd0SSfvxhRgBZ9KuppQnCd6fi23fnhK0WDspGCZkJ1AQiQ.png" group-title="ES | CINE",ES: SYFY FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wajjaVOdT0ElLZG88RBIhPp4/ts
+#EXTINF:-1 xui-id="114219" tvg-id="SYFYLAH" tvg-name="ES: SYFY SD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaSGS79a_8FYNl4IoU1uCSd0SSfvxhRgBZ9KuppQnCd6fi23fnhK0WDspGCZkJ1AQiQ.png" group-title="ES | CINE",ES: SYFY SD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9watUznov0QVhP7Bei85LcNGo/ts
+#EXTINF:-1 xui-id="114220" tvg-id="FXSAMCH" tvg-name="ES: FOX FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1eAD8F1zOTs_Dw5Rdf0Wvr0.png" group-title="ES | CINE",ES: FOX FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wahoE1Ha46CrNkidAtUEJBpY/ts
+#EXTINF:-1 xui-id="114222" tvg-id="FOXESHD" tvg-name="ES: FOX SD" tvg-logo="http://tv4k.me:80/images/J29ETnYF-hFNtcZP9J35wmN0wdqOH6yOXKhhiLMmMwylmkHZWudwZ4NqO0aOlhObQg3ehND1ABGSozuXn0HBhb-g6J0rByZXiUEXg2IntFPkDMdMYFthqMoPeLW8jTAZrv2C0KEKWuutLNTDgBW9BiEkemnqMcvUOrLsXFDbA1I.png" group-title="ES | CINE",ES: FOX SD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wahhhwVpdDV_Vi4sgxFLfyd0/ts
+#EXTINF:-1 xui-id="114223" tvg-id="TCMARHD" tvg-name="ES: TCM FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1fFJKJ7IAb0CzKupHm7WAT_c5thF_lOgaVk5kBOf2bbDQ.png" group-title="ES | CINE",ES: TCM FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wakZfiK7YC7E4CzwGI5BT3fY/ts
+#EXTINF:-1 xui-id="114224" tvg-id="TCMARHD" tvg-name="ES: TCM HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1fFJKJ7IAb0CzKupHm7WAT_c5thF_lOgaVk5kBOf2bbDQ.png" group-title="ES | CINE",ES: TCM HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wangZsxV8fDumWfTY7LaXc4U/ts
+#EXTINF:-1 xui-id="114226" tvg-id="CCLASHD" tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1c1Q93_xf9Tts9e8WROXnTSdKIwvJE4HqByGMM4TtZAFw.png" group-title="ES | CINE",ES: COMEDY CENTRAL FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wauacDpJWbWR683W-MzVIMaY/ts
+#EXTINF:-1 xui-id="114228" tvg-id="FDF ES" tvg-name="ES: FDF HD" tvg-logo="" group-title="ES | CINE",ES: FDF HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9warvdw_AP1Yt4uOtm5COAhgw/ts
+#EXTINF:-1 xui-id="114229" tvg-id="ParamountChannelEspana.us" tvg-name="ES: PARAMOUNT FHD" tvg-logo="" group-title="ES | CINE",ES: PARAMOUNT FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wamyflvhVj5_1YteZRlAhESg/ts
+#EXTINF:-1 xui-id="114230" tvg-id="CLSSCA" tvg-name="ES: CLASSICA FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUac2uThnoIIJBSJV-wBUPmzEmjOsbf1Gdv3PCwtNipeFUweTASDD74PGsui5Yy974_A.png" group-title="ES | CINE",ES: CLASSICA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waljIeE9utbvKDBoMyaq_x9k/ts
+#EXTINF:-1 xui-id="114231" tvg-id="TNTLVHD" tvg-name="ES: TNT FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaeqdBZV2lWo0sv-JwwnpgsztdQMXtpgMFQaAiHSuyxi5M6Yog9ypcATfG_WU-R8fTg.png" group-title="ES | CINE",ES: TNT FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wau8bfuQgFhPrl1NGWt51rww/ts
+#EXTINF:-1 xui-id="114232" tvg-id="TNTLVHD" tvg-name="ES: TNT HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaeqdBZV2lWo0sv-JwwnpgsztdQMXtpgMFQaAiHSuyxi5M6Yog9ypcATfG_WU-R8fTg.png" group-title="ES | CINE",ES: TNT HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waqYOjnpnLTQfjDVVs4uDraY/ts
+#EXTINF:-1 xui-id="114233" tvg-id="AMCANSD" tvg-name="ES: AMC FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwthlvDoRqyUCGyTibE-NC7w7sBdX3jesr7HAUjGNlNutEQ.png" group-title="ES | CINE",ES: AMC FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wau2argPRTUFKYi07qVsURjc/ts
+#EXTINF:-1 xui-id="114235" tvg-id="AMCANSD" tvg-name="ES: AMC SD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwthlvDoRqyUCGyTibE-NC7w7sBdX3jesr7HAUjGNlNutEQ.png" group-title="ES | CINE",ES: AMC SD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wasgct-4X0HGDN6MQy3lH2yM/ts
+#EXTINF:-1 xui-id="114236" tvg-id="" tvg-name="ES: #0 FHD" tvg-logo="" group-title="ES | CINE",ES: #0 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wasCZEq2_9TpLEeBMgpOC4l8/ts
+#EXTINF:-1 xui-id="114237" tvg-id="" tvg-name="ES: #0 HD" tvg-logo="" group-title="ES | CINE",ES: #0 HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wat6eDMlFSfYs6wKuhHFwQaE/ts
+#EXTINF:-1 xui-id="114238" tvg-id="" tvg-name="ES: #0 SD" tvg-logo="" group-title="ES | CINE",ES: #0 SD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wavk45-m665ZRlOs8mifvzsI/ts
+#EXTINF:-1 xui-id="114239" tvg-id="FDF ES" tvg-name="ES: FDF FHD" tvg-logo="" group-title="ES | CINE",ES: FDF FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wat97q2xMmNsZyTKJeibn0fo/ts
+#EXTINF:-1 xui-id="114240" tvg-id="FDFS" tvg-name="ES: FDF HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaeqdBZV2lWo0sv-JwwnpgsxGgq8_Fuou0vs_5s10zAas_urC1RZrOIv6h4nYbFqVQQ.png" group-title="ES | CINE",ES: FDF HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waomrQNEX9hJniPr321oW73c/ts
+#EXTINF:-1 xui-id="114241" tvg-id="TNTLVHD" tvg-name="ES: TNT FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaeqdBZV2lWo0sv-JwwnpgsztdQMXtpgMFQaAiHSuyxi5M6Yog9ypcATfG_WU-R8fTg.png" group-title="ES | CINE",ES: TNT FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waj7PQl5jnozo6S1OK8SeuBE/ts
+#EXTINF:-1 xui-id="114242" tvg-id="CALLE13" tvg-name="ES: CALLE 13 FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwtifD4d9o03Af_u4SPrEe6UpbnqQ_da6nmsVN3AuMN5_jw.png" group-title="ES | CINE",ES: CALLE 13 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wav50mkpM1I9he5FWeWEeoWw/ts
+#EXTINF:-1 xui-id="114243" tvg-id="CALLE13" tvg-name="ES: CALLE 13 HD" tvg-logo="http://tv4k.me:80/images/J29ETnYF-hFNtcZP9J35wmN0wdqOH6yOXKhhiLMmMwylmkHZWudwZ4NqO0aOlhObKJcSrjCeO18TgrgC65pXO4GX6tYsOG8UCEcLVNaPkOHHdFPGtzpES52EzqcGM4CjIDdwtgStVJLUPHDqHUzeAzwcvI9Z69BtbCKIkFyiJ8Y.png" group-title="ES | CINE",ES: CALLE 13 HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wakAd4t1pgadsQV-N0bDFZoE/ts
+#EXTINF:-1 xui-id="114244" tvg-id="CALLE13" tvg-name="ES: CALLE 13 SD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwtifD4d9o03Af_u4SPrEe6UpbnqQ_da6nmsVN3AuMN5_jw.png" group-title="ES | CINE",ES: CALLE 13 SD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9warxUJaKpVWazH08OQoratZI/ts
+#EXTINF:-1 xui-id="114245" tvg-id="CCLASHD" tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1c1Q93_xf9Tts9e8WROXnTSdKIwvJE4HqByGMM4TtZAFw.png" group-title="ES | CINE",ES: COMEDY CENTRAL FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9watdDJlHuTeLHjm2jXaY-yUI/ts
+#EXTINF:-1 xui-id="114246" tvg-id="COCINA" tvg-name="ES: CANAL COCINA FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwtgI8Fp-hUUktzl3K5SmbEZYJuZtkeElmy9vIQpGIjgpXw.png" group-title="ES | CINE",ES: CANAL COCINA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9walvMXKfwQYuWn-XSs4d2kss/ts
+#EXTINF:-1 xui-id="114247" tvg-id="SUNDANC" tvg-name="ES: SUNDANCE TV FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1cTtGyfSwJZYrQMbWmMZod-QD5hKU2m5g_iiA4LK2Xizg.png" group-title="ES | CINE",ES: SUNDANCE TV FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waswvrJTWYmyLW_jI6Gmr-XU/ts
+#EXTINF:-1 xui-id="114248" tvg-id="BEMAD" tvg-name="ES: BEMAD FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwtg4VfO8bJz6dSrzmnqauOX-fZXdg7RnliythOLgsEaT_w.png" group-title="ES | CINE",ES: BEMAD FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wahFKgbUVvmRrYjMxqheC7B8/ts
+#EXTINF:-1 xui-id="114249" tvg-id="Atreseries.es" tvg-name="ES: A3 SERIES FHD" tvg-logo="" group-title="ES | CINE",ES: A3 SERIES FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wavuacu7p4IH4yCNXZwtp6Ck/ts
+#EXTINF:-1 xui-id="114250" tvg-id="NATWILA" tvg-name="ES: NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaU3Bw7UasroipwKnC4ESQAcSldOjrri_6HQsNlXeUWEylu1SGaXN9szftFj2uVycrw.png" group-title="ES | CULTURA",ES: NATIONAL GEOGRAPHIC WILD FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9walTDEWx3iLDFlHUXs8XIKFI/ts
+#EXTINF:-1 xui-id="114251" tvg-id="NGCCLA" tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaQeAFgmtRx7AJTLad7rEXxeFA77AWI5NVibyxsNUkd5X6YVXqBkGoIYsC_kNx6uQtA.png" group-title="ES | CULTURA",ES: NATIONAL GEOGRAPHIC FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9was7Ap_ixf64zr17857-L7Jc/ts
+#EXTINF:-1 xui-id="114252" tvg-id="NGCCLA" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaQeAFgmtRx7AJTLad7rEXxeFA77AWI5NVibyxsNUkd5X6YVXqBkGoIYsC_kNx6uQtA.png" group-title="ES | CULTURA",ES: NATIONAL GEOGRAPHIC HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wanR7YYfOoeLttML3-gNvFMw/ts
+#EXTINF:-1 xui-id="114253" tvg-id="CrimenInvestigacion.es" tvg-name="ES: CRIME & INVESTIGATION HD" tvg-logo="" group-title="ES | CULTURA",ES: CRIME & INVESTIGATION HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wauOgIHT7VihwxtUcn73UGc0/ts
+#EXTINF:-1 xui-id="114254" tvg-id="DTRBLAH" tvg-name="ES: DISCOVERY TURBO FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaeDBFJE0hoqlxH-ekDQmjmzLQJvK5dUxpREIT_Y2fz804HvAJupaipt79KEGihtwoA.png" group-title="ES | CULTURA",ES: DISCOVERY TURBO FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wan_SofBcNS_cxoeJgdUv0Q4/ts
+#EXTINF:-1 xui-id="114255" tvg-id="TDCLAM" tvg-name="ES: DISCOVERY CHANNEL FHD" tvg-logo="http://tv4k.me:80/images/J29ETnYF-hFNtcZP9J35wmN0wdqOH6yOXKhhiLMmMwylmkHZWudwZ4NqO0aOlhObJJtmUyqE6TLeoyV0rv8GvopAamxmdyX5JE8TdRLE6TuTTURil-JA76E-Kkq2Roj4RqE_S_dHXqZwCbtRuVjO1gBGsuaI7TFbiXUjh_OjVXk.png" group-title="ES | CULTURA",ES: DISCOVERY CHANNEL FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wajAFnYukPUsSr_om0laEctk/ts
+#EXTINF:-1 xui-id="114256" tvg-id="TDCLVHD" tvg-name="ES: DISCOVERY CHANNEL HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1dLvLIwL8ScNK0DuWIr4PdptMaZRU2mdXvV_SLmJvDJyw.png" group-title="ES | CULTURA",ES: DISCOVERY CHANNEL HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wavyXxfSqk2i1Rmk5-u9GX98/ts
+#EXTINF:-1 xui-id="114257" tvg-id="DIS2ANZ" tvg-name="ES: DISCOVERY CHANNEL 2 FHD" tvg-logo="" group-title="ES | CULTURA",ES: DISCOVERY CHANNEL 2 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wavB8dhcSf4p8LdLjv7zy5ME/ts
+#EXTINF:-1 xui-id="114258" tvg-id="HISTSPA" tvg-name="ES: HISTORIA FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwtg7Mki9Bw8xRgH5i3_OEgvJSBXkH6tgeJ2scw24YdIQTQ.png" group-title="ES | CULTURA",ES: HISTORIA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9walkyv5dU49RcFAxQcGprugo/ts
+#EXTINF:-1 xui-id="114259" tvg-id="DISCMAX" tvg-name="ES: DMAX FHD" tvg-logo="http://tv4k.me:80/images/J29ETnYF-hFNtcZP9J35wmN0wdqOH6yOXKhhiLMmMwylmkHZWudwZ4NqO0aOlhObKJcSrjCeO18TgrgC65pXO9KEBtz-QI33eBQCmJwgVua5KNW0gGSeqlBrTtLWWzArT-AbVv1OfV5SV-mi6vCvxpcJrJMhKShUrWP1yArcY3s.png" group-title="ES | CULTURA",ES: DMAX FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wasl7kFR7XFZrbkhPPXHUK64/ts
+#EXTINF:-1 xui-id="114260" tvg-id="DMAXCH" tvg-name="ES: DMAX HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1c7JWD6DccvBdTBeKCtqDt4Ro0ztXi8X2YSAmWAnRKjnw.png" group-title="ES | CULTURA",ES: DMAX HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waqIDEb4ir1BeGeFiHQUnP5E/ts
+#EXTINF:-1 xui-id="114261" tvg-id="" tvg-name="ES: CANAL ODISEA FHD" tvg-logo="" group-title="ES | CULTURA",ES: CANAL ODISEA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wal2ub8tGH1CR7xbozYOYNPM/ts
+#EXTINF:-1 xui-id="114262" tvg-id="Decasa.es" tvg-name="ES: CANAL DECASA FHD" tvg-logo="" group-title="ES | CULTURA",ES: CANAL DECASA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9watQ5FaF9oIF9LWYAydbWlWM/ts
+#EXTINF:-1 xui-id="114263" tvg-id="COCINA" tvg-name="ES: CANAL COCINA FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwtgI8Fp-hUUktzl3K5SmbEZYJuZtkeElmy9vIQpGIjgpXw.png" group-title="ES | CULTURA",ES: CANAL COCINA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wapn2_qECfeTx5rnDbrhAfTw/ts
+#EXTINF:-1 xui-id="114264" tvg-id="PARMDA" tvg-name="ES: PARAMOUNT FHD" tvg-logo="http://tv4k.me:80/images/J29ETnYF-hFNtcZP9J35wmN0wdqOH6yOXKhhiLMmMwylmkHZWudwZ4NqO0aOlhObKJcSrjCeO18TgrgC65pXO3-INPqHu8grZh9Eor1kjbBhF4IDW0PpqfLqOt-JGg8fCHvX8-L24hQa_M6BL1p0tnDAwtme32lCL9DKm3nIW9Y.png" group-title="ES | CULTURA",ES: PARAMOUNT FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wai9ETPlMEjPEWV3wvvoDn0A/ts
+#EXTINF:-1 xui-id="114265" tvg-id="IberaliaTV.es" tvg-name="ES: IBERALIA TV FHD" tvg-logo="" group-title="ES | CULTURA",ES: IBERALIA TV FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waraE52EfvRVw7Q0lUNh0boQ/ts
+#EXTINF:-1 xui-id="114266" tvg-id="IberaliaTV.es" tvg-name="ES: IBERALIA TV HD" tvg-logo="" group-title="ES | CULTURA",ES: IBERALIA TV HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waomaFbSPxSo6oNmGrrRg8Bg/ts
+#EXTINF:-1 xui-id="114267" tvg-id="ODSEATV" tvg-name="ES: CANAL ODISEA FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaSGS79a_8FYNl4IoU1uCSd27CYE2wbnNq7bkQhp18jqV7hoxguZHymhbH6UjmS2YRQ.png" group-title="ES | CULTURA",ES: CANAL ODISEA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wagHo4_emEj_v_2hibAztnxw/ts
+#EXTINF:-1 xui-id="114268" tvg-id="GOLTV" tvg-name="ES: GOL TV FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaZBlp2tl_5RmsVb0oVBFGNtJmUgcFtZGH2ac8GJsq1-OCBIs4WIvNlzrk3VDA6c8OA.png" group-title="ES | DESPORTES",ES: GOL TV FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9walUNY1xUi9HGqHq0-0SF06E/ts
+#EXTINF:-1 xui-id="114269" tvg-id="Gol.es" tvg-name="ES: GOL HD" tvg-logo="" group-title="ES | DESPORTES",ES: GOL HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waoc1umfnlpKI6edBMhuqwkU/ts
+#EXTINF:-1 xui-id="114270" tvg-id="GOLTV" tvg-name="ES: GOL TV SD" tvg-logo="http://tv4k.me:80/images/J29ETnYF-hFNtcZP9J35wmN0wdqOH6yOXKhhiLMmMwylmkHZWudwZ4NqO0aOlhObKJcSrjCeO18TgrgC65pXO9KEBtz-QI33eBQCmJwgVubx_EgfCxs1iBxo-VSgaKX_GuXehk4yWCo8zBsxIirDjFrOWJxMxGYqyEKiJPnNZT0.png" group-title="ES | DESPORTES",ES: GOL TV SD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wagW9LP4ayjQs_bEX12aorfQ/ts
+#EXTINF:-1 xui-id="114271" tvg-id="BARCATV" tvg-name="ES: BARCA TV FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUac2uThnoIIJBSJV-wBUPmzFH4S4zXjLfBgYd-I0zlzLt.png" group-title="ES | DESPORTES",ES: BARCA TV FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wakuIKQ2Hy86w8FNTZqNK9p8/ts
+#EXTINF:-1 xui-id="114272" tvg-id="BARCATV" tvg-name="ES: BARCA TV HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUac2uThnoIIJBSJV-wBUPmzFH4S4zXjLfBgYd-I0zlzLt.png" group-title="ES | DESPORTES",ES: BARCA TV HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wau4cCFHu0g632jjBmG9EH_Q/ts
+#EXTINF:-1 xui-id="114273" tvg-id="BARCATV" tvg-name="ES: BARCA TV SD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUac2uThnoIIJBSJV-wBUPmzFH4S4zXjLfBgYd-I0zlzLt.png" group-title="ES | DESPORTES",ES: BARCA TV SD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wavtEeaYGLxAHN2j4QrIOVK4/ts
+#EXTINF:-1 xui-id="114274" tvg-id="RealMadridTVEspanol.es" tvg-name="ES: REAL MADRID FHD" tvg-logo="" group-title="ES | DESPORTES",ES: REAL MADRID FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9warwdDxC5AnDvD0eFNotIzsE/ts
+#EXTINF:-1 xui-id="114275" tvg-id="RMADH" tvg-name="ES: REAL MADRID HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1eG7EmtQ1n4LJyyD0yh9Mpw.png" group-title="ES | DESPORTES",ES: REAL MADRID HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wau_lJ-1mFUn_odHiCM7F5_E/ts
+#EXTINF:-1 xui-id="114276" tvg-id="VAMOS" tvg-name="ES: VAMOS FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1fSrexWsS5vO57d8zggq3FtWb5Hl1qd0AMT2bOGFRWecw.png" group-title="ES | DESPORTES",ES: VAMOS FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wats0UfHMyZKZyCZ6WnL6zOw/ts
+#EXTINF:-1 xui-id="114277" tvg-id="VAMOS" tvg-name="ES: VAMOS HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1fSrexWsS5vO57d8zggq3FtWb5Hl1qd0AMT2bOGFRWecw.png" group-title="ES | DESPORTES",ES: VAMOS HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9was9YQTp03srnMzr15kD_KKk/ts
+#EXTINF:-1 xui-id="114278" tvg-id="" tvg-name="ES: LA LIGA FHD" tvg-logo="" group-title="ES | DESPORTES",ES: LA LIGA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wal4my7rPuA2_moKSUPtNJgE/ts
+#EXTINF:-1 xui-id="114279" tvg-id="" tvg-name="ES: LALIGA 1  FHD" tvg-logo="" group-title="ES | DESPORTES",ES: LALIGA 1  FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9walGXpe_YnzQ0cUNYirvF0EQ/ts
+#EXTINF:-1 xui-id="114280" tvg-id="laligatv.uk" tvg-name="ES: LA LIGA TV BAR FHD" tvg-logo="" group-title="ES | DESPORTES",ES: LA LIGA TV BAR FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wavG992DNhiWYyAR1yvVAxnM/ts
+#EXTINF:-1 xui-id="114281" tvg-id="laligatv.uk" tvg-name="ES: LA LIGA TV BAR HD" tvg-logo="" group-title="ES | DESPORTES",ES: LA LIGA TV BAR HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waovJO8ko6wxHjd8SLXE83Ww/ts
+#EXTINF:-1 xui-id="114282" tvg-id="MGOLFHD" tvg-name="ES: MOVISTAR GOLF FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwtgv-m-kwYZC08RHzJl4Trhd-l--yPBb2O1CRS7BTuFAbA.png" group-title="ES | DESPORTES",ES: MOVISTAR GOLF FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wapYPrD3f7xCKr7hT4UrV_JE/ts
+#EXTINF:-1 xui-id="114285" tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES FHD [B]" tvg-logo="" group-title="ES | DESPORTES",ES: M LIGA DE CAMPEONES FHD [B]
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wapjqWnPk3lJWmhQPHBjwdTo/ts
+#EXTINF:-1 xui-id="114286" tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES HD" tvg-logo="" group-title="ES | DESPORTES",ES: M LIGA DE CAMPEONES HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wamkigjI9QjevFnjcj6dl73Q/ts
+#EXTINF:-1 xui-id="114287" tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES FHD" tvg-logo="" group-title="ES | DESPORTES",ES: M LIGA DE CAMPEONES FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wajdoBngaAIxJxRW4xx33PT4/ts
+#EXTINF:-1 xui-id="114288" tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 1 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: M LIGA DE CAMPEONES 1 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wavnN6zRd3OWI93UEqN91CYE/ts
+#EXTINF:-1 xui-id="114289" tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 1 HD" tvg-logo="" group-title="ES | DESPORTES",ES: M LIGA DE CAMPEONES 1 HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wagXuS-f04IQr_nT29TvFy3g/ts
+#EXTINF:-1 xui-id="114290" tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 2 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: M LIGA DE CAMPEONES 2 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wanFzfyKvco6VBq9fp-UpPXw/ts
+#EXTINF:-1 xui-id="114291" tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 2 HD" tvg-logo="" group-title="ES | DESPORTES",ES: M LIGA DE CAMPEONES 2 HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wanfcjLaAHsEveqlTN-n-dh8/ts
+#EXTINF:-1 xui-id="114292" tvg-id="Alquiler.es" tvg-name="ES: M LIGA DE CAMPEONES 2 SD" tvg-logo="" group-title="ES | DESPORTES",ES: M LIGA DE CAMPEONES 2 SD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waliN-vfnDq5VWi9dRLV2_VQ/ts
+#EXTINF:-1 xui-id="114293" tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 3 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: M LIGA DE CAMPEONES 3 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wapeB-77BkYqjGKO0jj4EyXs/ts
+#EXTINF:-1 xui-id="114294" tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 4 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: M LIGA DE CAMPEONES 4 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wahD2dZbc8FUQpIju9rZD6yk/ts
+#EXTINF:-1 xui-id="114295" tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 5 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: M LIGA DE CAMPEONES 5 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wajObsJJXxEv48p1mdGK8u0I/ts
+#EXTINF:-1 xui-id="114296" tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 6 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: M LIGA DE CAMPEONES 6 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9walCd46qJFoc_JeIQz7KqNQ4/ts
+#EXTINF:-1 xui-id="114297" tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 7 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: M LIGA DE CAMPEONES 7 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wansvxx6Xi1k5mBgpmYoWp8g/ts
+#EXTINF:-1 xui-id="114298" tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 8 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: M LIGA DE CAMPEONES 8 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9was83-XaxjYtDPhrpUQqHVfw/ts
+#EXTINF:-1 xui-id="114299" tvg-id="MovistarDeportesPeru.pe" tvg-name="ES: M. DEPORTES 1 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: M. DEPORTES 1 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waiv-2NG0CxqahrKpltffzak/ts
+#EXTINF:-1 xui-id="114300" tvg-id="MovistarDeportesPeru.pe" tvg-name="ES: M. DEPORTES 1 HD" tvg-logo="" group-title="ES | DESPORTES",ES: M. DEPORTES 1 HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wapFxA-O0rD2EkeV1GbhISu0/ts
+#EXTINF:-1 xui-id="114301" tvg-id="MovistarDeportesPeru.pe" tvg-name="ES: M. DEPORTES 1 SD" tvg-logo="" group-title="ES | DESPORTES",ES: M. DEPORTES 1 SD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waqmLr3QDGb6uxgft6nJRALs/ts
+#EXTINF:-1 xui-id="114302" tvg-id="MovistarDeportesPeru.pe" tvg-name="ES: M. DEPORTES 2 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: M. DEPORTES 2 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wamxNQKH2oLW501mLO9MnFys/ts
+#EXTINF:-1 xui-id="114303" tvg-id="TDEP" tvg-name="ES: TELEDEPORTE FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1fo3SkQMZZ13yOMXqOpZGOibUxg6ESAqyvJ4QYemMDMPw.png" group-title="ES | DESPORTES",ES: TELEDEPORTE FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wakZ6WoAFgZlQcjyKFc8YwA8/ts
+#EXTINF:-1 xui-id="114304" tvg-id="TDEP" tvg-name="ES: TELEDEPORTE HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1fo3SkQMZZ13yOMXqOpZGOibUxg6ESAqyvJ4QYemMDMPw.png" group-title="ES | DESPORTES",ES: TELEDEPORTE HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wamDmCtEbblaA2LzOYJjeQ8E/ts
+#EXTINF:-1 xui-id="114305" tvg-id="1.L" tvg-name="ES: DAZN 1 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: DAZN 1 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9walb7Dwno1QBR5SZncPZF-8k/ts
+#EXTINF:-1 xui-id="114306" tvg-id="" tvg-name="ES: DAZN LA LIGA HD" tvg-logo="" group-title="ES | DESPORTES",ES: DAZN LA LIGA HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9was0g7T2Ec_6MGXztAe886PQ/ts
+#EXTINF:-1 xui-id="114308" tvg-id="" tvg-name="ES: M. DAZN F1 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: M. DAZN F1 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wauYScOZuEPS1mFBzyRrNbSI/ts
+#EXTINF:-1 xui-id="114310" tvg-id="" tvg-name="ES: M DAZN F1 HD" tvg-logo="" group-title="ES | DESPORTES",ES: M DAZN F1 HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waiVIcKyah0z7kZpY0OqIRCA/ts
+#EXTINF:-1 xui-id="114311" tvg-id="2.L" tvg-name="ES: DAZN 2 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: DAZN 2 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wamRFDy4Jb3DFkb0mjvJW1GY/ts
+#EXTINF:-1 xui-id="114312" tvg-id="" tvg-name="ES: DAZN LA LIGA 2 HD" tvg-logo="" group-title="ES | DESPORTES",ES: DAZN LA LIGA 2 HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9watQMtIWFh8q8ftGl3sG4E3I/ts
+#EXTINF:-1 xui-id="114313" tvg-id="3.L" tvg-name="ES: DAZN 3 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: DAZN 3 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wap1vok1gaseEwq-nuZHBz4Y/ts
+#EXTINF:-1 xui-id="114314" tvg-id="laligatv.uk" tvg-name="ES: LA LIGA BAR 1 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: LA LIGA BAR 1 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wash5l32SGNFCxK4giqFhUmQ/ts
+#EXTINF:-1 xui-id="114315" tvg-id="ESUK1" tvg-name="ES: EUROSPORT 1 FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1fRU0706mAB8lbeh3_R5EmayS0LsJtea8yLH3g9WvGnDg.png" group-title="ES | DESPORTES",ES: EUROSPORT 1 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wapBBvPKnn77y2Bvsmk3y08E/ts
+#EXTINF:-1 xui-id="114316" tvg-id="ESUK1" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1fRU0706mAB8lbeh3_R5EmayS0LsJtea8yLH3g9WvGnDg.png" group-title="ES | DESPORTES",ES: EUROSPORT 1 HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wavexvrc3GUFJuoTFMczltYA/ts
+#EXTINF:-1 xui-id="114317" tvg-id="EUSP2NL" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1ffgrZd_i86nOxzHXan_wv6qFECW9b-OesU3DfUyTkfKQ.png" group-title="ES | DESPORTES",ES: EUROSPORT 2 HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wasoWTwIRLPadTCBFYP70HD4/ts
+#EXTINF:-1 xui-id="114318" tvg-id="Toros TV ES" tvg-name="ES: TOROS FHD" tvg-logo="" group-title="ES | DESPORTES",ES: TOROS FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wavvkEutPsXwIQ3undUAGrFo/ts
+#EXTINF:-1 xui-id="114319" tvg-id="Toros TV ES" tvg-name="ES: TOROS HD" tvg-logo="" group-title="ES | DESPORTES",ES: TOROS HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wai9QiY5qy_-WDb8LuQ1Wvl4/ts
+#EXTINF:-1 xui-id="114320" tvg-id="Movistar Golf ES" tvg-name="ES: GOLF FHD" tvg-logo="" group-title="ES | DESPORTES",ES: GOLF FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wanszB6hm6aHwv5YL2YDk-BE/ts
+#EXTINF:-1 xui-id="114321" tvg-id="" tvg-name="ES: GOLF HD" tvg-logo="" group-title="ES | DESPORTES",ES: GOLF HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9walKZDVORp8kYTSR_8Y1xyEw/ts
+#EXTINF:-1 xui-id="114322" tvg-id="" tvg-name="ES: M. LALIGA (H.265)" tvg-logo="" group-title="ES | DESPORTES",ES: M. LALIGA (H.265)
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wal57_GuCVwfJriC2ClPzZAE/ts
+#EXTINF:-1 xui-id="114324" tvg-id="" tvg-name="ES: M LALIGA 1 HD" tvg-logo="" group-title="ES | DESPORTES",ES: M LALIGA 1 HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9war6awIi3GVh_paahJtJuHB0/ts
+#EXTINF:-1 xui-id="114325" tvg-id="" tvg-name="ES: M LALIGA 2 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: M LALIGA 2 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wam3DDWFBOYhBSjSDthdfw_M/ts
+#EXTINF:-1 xui-id="114326" tvg-id="" tvg-name="ES: M LALIGA 2 HD" tvg-logo="" group-title="ES | DESPORTES",ES: M LALIGA 2 HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waoyBZDkCFdfeUbK-qCtHqqM/ts
+#EXTINF:-1 xui-id="114327" tvg-id="" tvg-name="ES: M LALIGA 3 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: M LALIGA 3 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wavzCjsn420JOEG9roYl8f84/ts
+#EXTINF:-1 xui-id="114328" tvg-id="" tvg-name="ES: M LALIGA 4 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: M LALIGA 4 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wakgzeWv5nfvmA82YL1hT6g0/ts
+#EXTINF:-1 xui-id="114329" tvg-id="" tvg-name="ES: M LALIGA 5 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: M LALIGA 5 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wamCEtceNN7yUBQa06FsTKpQ/ts
+#EXTINF:-1 xui-id="114330" tvg-id="" tvg-name="ES: M LALIGA 6 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: M LALIGA 6 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wao_lXq0mkB86hsBM5PZQNJo/ts
+#EXTINF:-1 xui-id="114331" tvg-id="" tvg-name="ES: M LALIGA 7 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: M LALIGA 7 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wap0rLp96Kx_NZAu5yH_hst4/ts
+#EXTINF:-1 xui-id="114332" tvg-id="" tvg-name="ES: M LALIGA 8 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: M LALIGA 8 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wapGosyE4UKTI4a_wJD5qUrk/ts
+#EXTINF:-1 xui-id="114333" tvg-id="laligatv.uk" tvg-name="ES: M LALIGA 9 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: M LALIGA 9 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wauKCHrhbmtSNYNciOymFYXQ/ts
+#EXTINF:-1 xui-id="114334" tvg-id="" tvg-name="ES: M LALIGA 10 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: M LALIGA 10 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wahMV47o1SOTR7p_g3IFw6Vs/ts
+#EXTINF:-1 xui-id="114335" tvg-id="BEINS1" tvg-name="ES: BEIN SPORT Ñ FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaeqdBZV2lWo0sv-JwwnpgsxHLQ1MKzBHWX9o-5KlI42ys3NLBwrIEwJMDThX5UPguA.png" group-title="ES | DESPORTES",ES: BEIN SPORT Ñ FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9watVIwEEKkO-8hhqqaccotso/ts
+#EXTINF:-1 xui-id="114336" tvg-id="TELEMAD" tvg-name="ES: TELE MADRID FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaSGS79a_8FYNl4IoU1uCSd0rzm5ZTzYGaBzwg58VU-FpQutU05ZhuayItBwpVPpBFQ.png" group-title="ES | DESPORTES",ES: TELE MADRID FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wasCqq7Y208D1fyMSPbqiUPI/ts
+#EXTINF:-1 xui-id="114337" tvg-id="4seven.uk" tvg-name="ES: BABY" tvg-logo="" group-title="ES | NINOS",ES: BABY
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waiOpGx1ccrBR-JZvOUKynhs/ts
+#EXTINF:-1 xui-id="114338" tvg-id="NICKJR" tvg-name="ES: NICK JUNIOR FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaQeAFgmtRx7AJTLad7rEXxfHQxx2on7WqwV6-LyOWIpmb7CNdHnA2CuCsiatD4ZSvA.png" group-title="ES | NINOS",ES: NICK JUNIOR FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9watzPBOvmd2ecOJo_D9kGpcA/ts
+#EXTINF:-1 xui-id="114339" tvg-id="BOINGFR" tvg-name="ES: BOING FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaU3Bw7UasroipwKnC4ESQAdb-2sQprXkftz47oaM_jfcQm7TsH-KP3D_nRi-fI1xWw.png" group-title="ES | NINOS",ES: BOING FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wak_nCQg6GghZqe_OW6LU49I/ts
+#EXTINF:-1 xui-id="114340" tvg-id="BOINGFR" tvg-name="ES: BOING HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaU3Bw7UasroipwKnC4ESQAdb-2sQprXkftz47oaM_jfcQm7TsH-KP3D_nRi-fI1xWw.png" group-title="ES | NINOS",ES: BOING HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wakEDyqdyMMMs_PIQoVpoPcQ/ts
+#EXTINF:-1 xui-id="114341" tvg-id="NICKLMC" tvg-name="ES: NICKELODEON FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1dZFWsjikDAWy9_8x2m442V.png" group-title="ES | NINOS",ES: NICKELODEON FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9watr0Yt05Rjgg-4dZhG-UL9w/ts
+#EXTINF:-1 xui-id="114343" tvg-id="NICKLMC" tvg-name="ES: NICKELODEON SD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1dZFWsjikDAWy9_8x2m442V.png" group-title="ES | NINOS",ES: NICKELODEON SD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wakBr2MXe0E0ICTCyYV-0Rs4/ts
+#EXTINF:-1 xui-id="114344" tvg-id="CANLPAN" tvg-name="ES: CANAL PANDA FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaSGS79a_8FYNl4IoU1uCSd2U28Bi7wzcAVwKrxHtYYc1tN2OE5j9zwtPrl-0m2NL3w.png" group-title="ES | NINOS",ES: CANAL PANDA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wahz0o7gsQvgBGFABh60Piss/ts
+#EXTINF:-1 xui-id="114345" tvg-id="CANLPAN" tvg-name="ES: CANAL PANDA HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaSGS79a_8FYNl4IoU1uCSd2U28Bi7wzcAVwKrxHtYYc1tN2OE5j9zwtPrl-0m2NL3w.png" group-title="ES | NINOS",ES: CANAL PANDA HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wao46eqxVMsxHm8UfoehTVRg/ts
+#EXTINF:-1 xui-id="114346" tvg-id="DISJMXH" tvg-name="ES: DISNEY JUNIOR FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaU3Bw7UasroipwKnC4ESQAePss4_PSgsFmvtRWNdeUzOaBQbN4fyL9EN7lEOof3C_g.png" group-title="ES | NINOS",ES: DISNEY JUNIOR FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wanvpF2HzSyBvYixCa1R69w8/ts
+#EXTINF:-1 xui-id="114347" tvg-id="DJRMTMC" tvg-name="ES: DISNEY  JUNIOR HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaeqdBZV2lWo0sv-Jwwnpgsy7lmFFMzbuvXMzWSzXLsAz63emAS1rRfF2RfP1gIpW1Q.png" group-title="ES | NINOS",ES: DISNEY  JUNIOR HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9warIakm3-25E2DbBJ_vaWFoA/ts
+#EXTINF:-1 xui-id="114348" tvg-id="DISNLSH" tvg-name="ES: DISNEY CHANNEL FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaeDBFJE0hoqlxH-ekDQmjmyuwRCHKz5ttVqryKK5O9wfKPUnV-12DHrN5REPL1lsRQ.png" group-title="ES | NINOS",ES: DISNEY CHANNEL FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wagn-aPl3_b1STWezhljpURM/ts
+#EXTINF:-1 xui-id="114350" tvg-id="" tvg-name="ES: PLANETA KIDS FHD" tvg-logo="" group-title="ES | NINOS",ES: PLANETA KIDS FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9was8bnvDr7pq3gm4CwN_FN8Q/ts
+#EXTINF:-1 xui-id="114351" tvg-id="4seven.uk" tvg-name="ES: CLAN FHD" tvg-logo="" group-title="ES | NINOS",ES: CLAN FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wah04UzbtFfIIa9RLz3uDKKQ/ts
+#EXTINF:-1 xui-id="114353" tvg-id="TVEINTH" tvg-name="ES: TVE INTERNACIONAL FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1c-viPLtViI51e1p1KwhufK9UBFsK_b5ZyulPGyogoCJQ.png" group-title="ES | TDT",ES: TVE INTERNACIONAL FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wanrE-QEceu9qyA2m4CzCG6E/ts
+#EXTINF:-1 xui-id="114354" tvg-id="" tvg-name="ES: 24 HORAS FHD" tvg-logo="" group-title="ES | TDT",ES: 24 HORAS FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9watgC-DzojX2objh_zF9LxnQ/ts
+#EXTINF:-1 xui-id="114355" tvg-id="" tvg-name="ES: 24 HORAS HD" tvg-logo="" group-title="ES | TDT",ES: 24 HORAS HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waq0SRDE_uf1-aNJdSZO6Ejg/ts
+#EXTINF:-1 xui-id="114356" tvg-id="LA1" tvg-name="ES: LA 1 FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUac2uThnoIIJBSJV-wBUPmzFqqza8Y8Ew10zaYk9LSWSIObFu_kh4_AW3W2zeTlbdaA.png" group-title="ES | TDT",ES: LA 1 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wagxCbONiRCWqocIA_N7cJuA/ts
+#EXTINF:-1 xui-id="114357" tvg-id="" tvg-name="ES: LA 1 H.265" tvg-logo="" group-title="ES | TDT",ES: LA 1 H.265
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wasi4kEgBEknyaxuCbaHHsMs/ts
+#EXTINF:-1 xui-id="114358" tvg-id="LA1" tvg-name="ES: LA 1 HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUac2uThnoIIJBSJV-wBUPmzFqqza8Y8Ew10zaYk9LSWSIObFu_kh4_AW3W2zeTlbdaA.png" group-title="ES | TDT",ES: LA 1 HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wahSLhsEg3CsWYMfATshFNHU/ts
+#EXTINF:-1 xui-id="114359" tvg-id="NEXTRM" tvg-name="ES: LA 1 SD" tvg-logo="http://tv4k.me:80/images/J29ETnYF-hFNtcZP9J35wmN0wdqOH6yOXKhhiLMmMwylmkHZWudwZ4NqO0aOlhObQg3ehND1ABGSozuXn0HBhb-g6J0rByZXiUEXg2IntFNRPb7KJzC7ck4s1q0dptVNcLJubfpk6ACujSKSceyWgcGNG1q8u_h6O-PwoxFmsKE.png" group-title="ES | TDT",ES: LA 1 SD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wagoIKdgH4LmsoO5k5ZG5yjg/ts
+#EXTINF:-1 xui-id="114360" tvg-id="LA2" tvg-name="ES: LA 2 FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUac2uThnoIIJBSJV-wBUPmzGpp1AdTaumnNd-vy8I5pb0yhDTCRDbVBMn4uAiV_PwCQ.png" group-title="ES | TDT",ES: LA 2 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waj1oZOqpCM-E1Nq7HHXeSSs/ts
+#EXTINF:-1 xui-id="114361" tvg-id="LA2" tvg-name="ES: LA 2 HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUac2uThnoIIJBSJV-wBUPmzGpp1AdTaumnNd-vy8I5pb0yhDTCRDbVBMn4uAiV_PwCQ.png" group-title="ES | TDT",ES: LA 2 HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wakQ3j-9OJNvCa1v9TYclMAM/ts
+#EXTINF:-1 xui-id="114362" tvg-id="LA2" tvg-name="ES: LA 2 SD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUac2uThnoIIJBSJV-wBUPmzGpp1AdTaumnNd-vy8I5pb0yhDTCRDbVBMn4uAiV_PwCQ.png" group-title="ES | TDT",ES: LA 2 SD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waujRZyPugMWipxrRAv5tCIM/ts
+#EXTINF:-1 xui-id="114363" tvg-id="ANTENA3" tvg-name="ES: ANTENA 3 FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwtgjdZhQtc6RcuOPapwnBpNdgT-5VxdIqaaFahRBFfptQQ.png" group-title="ES | TDT",ES: ANTENA 3 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wasxKs8f1-_vz0xp9t9FTpv8/ts
+#EXTINF:-1 xui-id="114364" tvg-id="ANT3SPH" tvg-name="ES: ANTENA 3 HD" tvg-logo="http://tv4k.me:80/images/J29ETnYF-hFNtcZP9J35wmN0wdqOH6yOXKhhiLMmMwylmkHZWudwZ4NqO0aOlhObKJcSrjCeO18TgrgC65pXO9KEBtz-QI33eBQCmJwgVua1F2jcKGFXLscOYKykFUwgV_3EhdyO_zfYAvEEivLqW-a3dCn2Ff2pB7U771jYZtQ.png" group-title="ES | TDT",ES: ANTENA 3 HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wapYcD4cLV0J0P9ipITsUbuM/ts
+#EXTINF:-1 xui-id="114365" tvg-id="ANTENA3" tvg-name="ES: ANTENA 3 SD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwtgjdZhQtc6RcuOPapwnBpNdgT-5VxdIqaaFahRBFfptQQ.png" group-title="ES | TDT",ES: ANTENA 3 SD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9was1QJ-4n_CalL6MJuB31NA0/ts
+#EXTINF:-1 xui-id="114366" tvg-id="CUATRHD" tvg-name="ES: CUATRO FHD" tvg-logo="http://tv4k.me:80/images/J29ETnYF-hFNtcZP9J35wmN0wdqOH6yOXKhhiLMmMwylmkHZWudwZ4NqO0aOlhObKJcSrjCeO18TgrgC65pXO9KEBtz-QI33eBQCmJwgVuYH3N0-ha3olshebIjtS0rgEufP-Nyv_YwGervG4TFi-6ViCkZdU33H-nxiJ3cJwhg.png" group-title="ES | TDT",ES: CUATRO FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9walB9PL-mg1qW9tx4b5wsqBo/ts
+#EXTINF:-1 xui-id="114367" tvg-id="CUATRO" tvg-name="ES: CUATRO HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaU3Bw7UasroipwKnC4ESQAfIu2cnf1E_U3PnvSQ7gZUtjIJg4JdS2OOXJOp9gtfQVA.png" group-title="ES | TDT",ES: CUATRO HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waoGed5s--YNFUwMegKnhb9Q/ts
+#EXTINF:-1 xui-id="114368" tvg-id="CUATRO" tvg-name="ES: CUATRO SD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaU3Bw7UasroipwKnC4ESQAfIu2cnf1E_U3PnvSQ7gZUtjIJg4JdS2OOXJOp9gtfQVA.png" group-title="ES | TDT",ES: CUATRO SD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9walxabH5r1ZAd0eTFBKNFjDU/ts
+#EXTINF:-1 xui-id="114369" tvg-id="TELECHD" tvg-name="ES: TELECINCO FHD" tvg-logo="http://tv4k.me:80/images/J29ETnYF-hFNtcZP9J35wmN0wdqOH6yOXKhhiLMmMwylmkHZWudwZ4NqO0aOlhObKJcSrjCeO18TgrgC65pXO3-INPqHu8grZh9Eor1kjbD9N8ZJRg9SNy124kcsllpi9396WmOPAujvzD9lA47uQ5vplmvSvB_Fy661fh-5e84.png" group-title="ES | TDT",ES: TELECINCO FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wamUFuPaKMRtIGp6FbGihKYc/ts
+#EXTINF:-1 xui-id="114370" tvg-id="TELECIN" tvg-name="ES: TELECINCO HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaSGS79a_8FYNl4IoU1uCSd29BgyyCOVT81ppEnq1jvlDdoxh4yEKFmwBIlc_pi-Eog.png" group-title="ES | TDT",ES: TELECINCO HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9watTvemX9qfJ1HXXwq2tEWZE/ts
+#EXTINF:-1 xui-id="114371" tvg-id="TELECIN" tvg-name="ES: TELECINCO SD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaSGS79a_8FYNl4IoU1uCSd29BgyyCOVT81ppEnq1jvlDdoxh4yEKFmwBIlc_pi-Eog.png" group-title="ES | TDT",ES: TELECINCO SD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wav-dsduivqQ-ObF0pgMxTUI/ts
+#EXTINF:-1 xui-id="114372" tvg-id="SEXTHD" tvg-name="ES: LA SEXTA FHD" tvg-logo="http://tv4k.me:80/images/J29ETnYF-hFNtcZP9J35wmN0wdqOH6yOXKhhiLMmMwylmkHZWudwZ4NqO0aOlhObKJcSrjCeO18TgrgC65pXO4GX6tYsOG8UCEcLVNaPkOHPMTB2scMM2Wwj-C8ddQoAQ_UUXDUQIDjSpJUyaQcf03RCXfljhiXH70yIPwHHU4o.png" group-title="ES | TDT",ES: LA SEXTA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waveUVhQ7LkwvHin093966RY/ts
+#EXTINF:-1 xui-id="114373" tvg-id="LASEXTA" tvg-name="ES: LA SEXTA HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaU3Bw7UasroipwKnC4ESQAeTaYoqu0QHC0fmQ1YFSNje_Oter07EaYWedpGOLBjpqw.png" group-title="ES | TDT",ES: LA SEXTA HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wahHbvcMHWvi-5GEUDo9U24Q/ts
+#EXTINF:-1 xui-id="114374" tvg-id="LASEXTA" tvg-name="ES: LA SEXTA SD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaU3Bw7UasroipwKnC4ESQAeTaYoqu0QHC0fmQ1YFSNje_Oter07EaYWedpGOLBjpqw.png" group-title="ES | TDT",ES: LA SEXTA SD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waoJ-2KA3HgxrD8dDA3jLdS8/ts
+#EXTINF:-1 xui-id="114375" tvg-id="MEGSTGO" tvg-name="ES: MEGA FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1dJK_kilBAUZob2JJu-L3WIU_VHylnbpyVY7ITSXfG-xQ.png" group-title="ES | TDT",ES: MEGA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wan2298Cgw_-SAW2chyoH5iA/ts
+#EXTINF:-1 xui-id="114376" tvg-id="MEGTI" tvg-name="ES: MEGA HD" tvg-logo="http://tv4k.me:80/images/J29ETnYF-hFNtcZP9J35wmN0wdqOH6yOXKhhiLMmMwylmkHZWudwZ4NqO0aOlhObJJtmUyqE6TLeoyV0rv8GvopAamxmdyX5JE8TdRLE6Tv8XtRnCfh2wchGSM262ju_CUiooRyckOpgCd77VHsgh7bTYJjYa5A9m3SpE4fwWVY.png" group-title="ES | TDT",ES: MEGA HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waq5s-j54Mi5Jd7nI4ylBlCk/ts
+#EXTINF:-1 xui-id="114377" tvg-id="NOVANT" tvg-name="ES: NOVA HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUac2uThnoIIJBSJV-wBUPmzEzk7kCKnvxnciVzUcBWqU9R1vILd98II37Tdw0c2sqTw.png" group-title="ES | TDT",ES: NOVA HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waml56IktaYJ7447fhuyZPsk/ts
+#EXTINF:-1 xui-id="114378" tvg-id="NEOX" tvg-name="ES: NEOX FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaeqdBZV2lWo0sv-Jwwnpgsyd8awYLWzteAzFIItm-5I6MO3H5p4gxy3C3UN1cl8UGg.png" group-title="ES | TDT",ES: NEOX FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wavWvEfxiFpaub8-KhWPAC2M/ts
+#EXTINF:-1 xui-id="114379" tvg-id="NEOX" tvg-name="ES: NEOX HD" tvg-logo="http://tv4k.me:80/images/J29ETnYF-hFNtcZP9J35wmN0wdqOH6yOXKhhiLMmMwylmkHZWudwZ4NqO0aOlhObd7ORJhExZEXtTR8kxpzIZO36bBjPhfnXvvTcNF_REEIWLLrhAIJe1J-TCwGwsJxDbqLTkqo9eJeIBpcgf-YtBTF_qeeF635sen1gWSI5SU0.png" group-title="ES | TDT",ES: NEOX HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wageS_gomIsTjPN-Q32ucT4Y/ts
+#EXTINF:-1 xui-id="114380" tvg-id="ENERGYE" tvg-name="ES: ENERGY FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUac2uThnoIIJBSJV-wBUPmzH0mFFlUPwoL42sAqSZ0S8magcxPRvMxXt6aRBXM2XAeg.png" group-title="ES | TDT",ES: ENERGY FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wai9NYVyp9oMKwFYjoA58kZw/ts
+#EXTINF:-1 xui-id="114381" tvg-id="ENERGYE" tvg-name="ES: ENERGY HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUac2uThnoIIJBSJV-wBUPmzH0mFFlUPwoL42sAqSZ0S8magcxPRvMxXt6aRBXM2XAeg.png" group-title="ES | TDT",ES: ENERGY HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wameadWp_jlBvoBRzRmUfRXs/ts
+#EXTINF:-1 xui-id="114382" tvg-id="ENERGYE" tvg-name="ES: ENERGY HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUac2uThnoIIJBSJV-wBUPmzH0mFFlUPwoL42sAqSZ0S8magcxPRvMxXt6aRBXM2XAeg.png" group-title="ES | TDT",ES: ENERGY HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wapJukhUgd85ujvD7oI6KG4g/ts
+#EXTINF:-1 xui-id="114383" tvg-id="" tvg-name="ES: COSMO FHD" tvg-logo="" group-title="ES | TDT",ES: COSMO FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wapqDtazeKebHUrccMbyzWuk/ts
+#EXTINF:-1 xui-id="114384" tvg-id="" tvg-name="ES: COSMO HD" tvg-logo="" group-title="ES | TDT",ES: COSMO HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wakOr08s2j1jEvZ4Je5-b_1w/ts
+#EXTINF:-1 xui-id="114385" tvg-id="DIVINIT" tvg-name="ES: DIVINITY FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUac2uThnoIIJBSJV-wBUPmzHXnMbr1theti2LMlpWgsBtDvUbTfQ3X48h8Fm-nB7xCw.png" group-title="ES | TDT",ES: DIVINITY FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wavH0A9ORSnKVO1gUO9R9How/ts
+#EXTINF:-1 xui-id="114386" tvg-id="DIVINIT" tvg-name="ES: DIVINITY HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUac2uThnoIIJBSJV-wBUPmzHXnMbr1theti2LMlpWgsBtDvUbTfQ3X48h8Fm-nB7xCw.png" group-title="ES | TDT",ES: DIVINITY HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waifdLCRma5on5Q_65lWbAwc/ts
+#EXTINF:-1 xui-id="114387" tvg-id="DKISS" tvg-name="ES: DKISS FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwtgzkmUeQFCJx1vdtrQfr50sn3Qf5NysDBmnip3BdNl3Jw.png" group-title="ES | TDT",ES: DKISS FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waocCEfYVMlV4Mr0ChuBGp9I/ts
+#EXTINF:-1 xui-id="114388" tvg-id="DKISS" tvg-name="ES: DKISS HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwtgzkmUeQFCJx1vdtrQfr50sn3Qf5NysDBmnip3BdNl3Jw.png" group-title="ES | TDT",ES: DKISS HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wahS1dscFxtUYMcakjQu_QCQ/ts
+#EXTINF:-1 xui-id="114389" tvg-id="TENESP" tvg-name="ES: TEN FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1e6fo2DgLHCdBC0HPlRJwOygQ87FuiyFeeKJhmwKQVXKg.png" group-title="ES | TDT",ES: TEN FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9walyKXnPoCLR4_4ag887Cark/ts
+#EXTINF:-1 xui-id="114390" tvg-id="TENESP" tvg-name="ES: TEN HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1e6fo2DgLHCdBC0HPlRJwOygQ87FuiyFeeKJhmwKQVXKg.png" group-title="ES | TDT",ES: TEN HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waqUc9zXmeG4TfGcVcK7SUds/ts
+#EXTINF:-1 xui-id="114391" tvg-id="" tvg-name="ES: TV GALICIA FHD" tvg-logo="" group-title="ES | TDT",ES: TV GALICIA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waoOLbnBTys8wi-sGw8qFyLI/ts
+#EXTINF:-1 xui-id="114392" tvg-id="" tvg-name="ES: ARAGON INT FHD" tvg-logo="" group-title="ES | TDT",ES: ARAGON INT FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wajmHLhkYaz0Q0oaNAGJZqek/ts
+#EXTINF:-1 xui-id="114393" tvg-id="" tvg-name="ES: POPULAR TV FHD" tvg-logo="" group-title="ES | TDT",ES: POPULAR TV FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wamYqNh9WDAZJYOyDqx45CWE/ts
+#EXTINF:-1 xui-id="114395" tvg-id="324CAT" tvg-name="ES: 3/24 FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwtgW4wg-73JHX4lEhFMM3Bk6saKen5kIbZzN0CiFzg_-fg.png" group-title="ES | TDT",ES: 3/24 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wask1cDX0yVgCOGGSzwT96ZY/ts
+#EXTINF:-1 xui-id="114396" tvg-id="" tvg-name="ES: TV 7 MURCIA FHD" tvg-logo="" group-title="ES | TDT",ES: TV 7 MURCIA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waoVbdUBY_vBev9F98m_vM7Y/ts
+#EXTINF:-1 xui-id="114397" tvg-id="" tvg-name="ES: EXTRAMADURA FHD" tvg-logo="" group-title="ES | TDT",ES: EXTRAMADURA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wasqWTM6R2A2pjNAxjbMjwKo/ts
+#EXTINF:-1 xui-id="114398" tvg-id="" tvg-name="ES: LA 8 AVILA FHD" tvg-logo="" group-title="ES | TDT",ES: LA 8 AVILA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wal9ShdCmVTKR1dLVG2qRTUA/ts
+#EXTINF:-1 xui-id="114399" tvg-id="" tvg-name="ES: MELLILA TV FHD" tvg-logo="" group-title="ES | TDT",ES: MELLILA TV FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9war2ACM-q8d8Fa_AXNKz8ANc/ts
+#EXTINF:-1 xui-id="114400" tvg-id="" tvg-name="ES: MIJAS FHD" tvg-logo="" group-title="ES | TDT",ES: MIJAS FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waueflNqOrpbQ-QIGekl8UXI/ts
+#EXTINF:-1 xui-id="114401" tvg-id="" tvg-name="ES: DISTRITO TV FHD" tvg-logo="" group-title="ES | TDT",ES: DISTRITO TV FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wat5SPhlGPVsiifvb9hl5Iks/ts
+#EXTINF:-1 xui-id="114402" tvg-id="" tvg-name="ES: ALCARRIATV FHD" tvg-logo="" group-title="ES | TDT",ES: ALCARRIATV FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waoCZM84SBcAffwUvJoLknXQ/ts
+#EXTINF:-1 xui-id="114403" tvg-id="CA33ATP" tvg-name="ES: CANAL 33 FHD" tvg-logo="" group-title="ES | TDT",ES: CANAL 33 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wauivBGjvAuMGjleRudNYn6E/ts
+#EXTINF:-1 xui-id="114404" tvg-id="" tvg-name="ES: LOGOS  TV FHD" tvg-logo="" group-title="ES | TDT",ES: LOGOS  TV FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waoDyGmPD2khvC09_yvhW5vo/ts
+#EXTINF:-1 xui-id="114405" tvg-id="CAZPES" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUac2uThnoIIJBSJV-wBUPmzHslKx5cI1ylfbOPzWSvcTPyGV22fd_U8TIeSt13TxEZQ.png" group-title="ES | TDT",ES: CAZA Y PESCA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wapzqmr7axlvt9WXGZewpQHQ/ts
+#EXTINF:-1 xui-id="114407" tvg-id="" tvg-name="ES: 13 TV FHD" tvg-logo="" group-title="ES | TDT",ES: 13 TV FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9warWyeYcaXElSD949U_sHXGc/ts
+#EXTINF:-1 xui-id="114408" tvg-id="" tvg-name="ES: TVG EUROPA FHD" tvg-logo="" group-title="ES | TDT",ES: TVG EUROPA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wahIc3KMX2FsCVd7zZHRSlto/ts
+#EXTINF:-1 xui-id="114409" tvg-id="" tvg-name="ES: TVG INFANTIL FHD" tvg-logo="" group-title="ES | TDT",ES: TVG INFANTIL FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wanW9KcWUg_z257a_xLO7kDE/ts
+#EXTINF:-1 xui-id="114410" tvg-id="" tvg-name="ES: TV GIRONA FHD" tvg-logo="" group-title="ES | TDT",ES: TV GIRONA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wanMe6VvsYe5Xtp2NHBg8k9w/ts
+#EXTINF:-1 xui-id="114411" tvg-id="" tvg-name="ES: TVG CULTURAL FHD" tvg-logo="" group-title="ES | TDT",ES: TVG CULTURAL FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wasiT-LM48zXcaIK57Ua8Hlk/ts
+#EXTINF:-1 xui-id="114412" tvg-id="" tvg-name="ES: EURONEWS EN ESPANOL FHD" tvg-logo="" group-title="ES | TDT",ES: EURONEWS EN ESPANOL FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wakHtPF5U3-Wby0kCx_zV2dY/ts
+#EXTINF:-1 xui-id="114413" tvg-id="" tvg-name="ES: 101 TV MALAGA FHD" tvg-logo="" group-title="ES | TDT",ES: 101 TV MALAGA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9walc-Vnw_GCrIb44k7myVxs4/ts
+#EXTINF:-1 xui-id="114414" tvg-id="" tvg-name="ES: BON DIA TV FHD" tvg-logo="" group-title="ES | TDT",ES: BON DIA TV FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wajRghmuD8VJmKByhDCRLh6A/ts
+#EXTINF:-1 xui-id="114415" tvg-id="" tvg-name="ES: CANAL 4 MANCHA CENTRO FHD" tvg-logo="" group-title="ES | TDT",ES: CANAL 4 MANCHA CENTRO FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9watsrzXot_Edmld9yU-GVt1o/ts
+#EXTINF:-1 xui-id="114416" tvg-id="" tvg-name="ES: CANAL SUR ANDALUCIA FHD" tvg-logo="" group-title="ES | TDT",ES: CANAL SUR ANDALUCIA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wakBdF9VMP7eXy8ZaMC92nq4/ts
+#EXTINF:-1 xui-id="114417" tvg-id="" tvg-name="ES: CANAL 25 TV FHD" tvg-logo="" group-title="ES | TDT",ES: CANAL 25 TV FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wao3GG1B8Eue2zJTYzcbHZ-Y/ts
+#EXTINF:-1 xui-id="114418" tvg-id="LA7ITL" tvg-name="ES: LA 7 FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaSGS79a_8FYNl4IoU1uCSd0gJilV-BoDgpz9LTtk3AdmLQ9O6OrRJRXXgrbhhP1e8A.png" group-title="ES | TDT",ES: LA 7 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wairsG-4XReB4L8V7xJlHCOY/ts
+#EXTINF:-1 xui-id="114419" tvg-id="" tvg-name="ES: COSTA DELSOL TV FHD" tvg-logo="" group-title="ES | TDT",ES: COSTA DELSOL TV FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waiiQ2A3uM4puMFFdkmlQzPg/ts
+#EXTINF:-1 xui-id="114420" tvg-id="" tvg-name="ES: CANAL COSTA TV FHD" tvg-logo="" group-title="ES | TDT",ES: CANAL COSTA TV FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wauAxm0-jTN7O2_CvSukYYCM/ts
+#EXTINF:-1 xui-id="114421" tvg-id="" tvg-name="ES: ONDA ALGECIRAS TELEVISION FHD" tvg-logo="" group-title="ES | TDT",ES: ONDA ALGECIRAS TELEVISION FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wauHRA0ESvNHzMbr91BKYbD0/ts
+#EXTINF:-1 xui-id="114422" tvg-id="" tvg-name="ES: PEQUERADIO FHD" tvg-logo="" group-title="ES | TDT",ES: PEQUERADIO FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wavHtIcEuOfFNVDYwyPguWvE/ts
+#EXTINF:-1 xui-id="114423" tvg-id="" tvg-name="ES: CADENA ELITE FHD" tvg-logo="" group-title="ES | TDT",ES: CADENA ELITE FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wajzUODInGXzn_V33ItQE4_4/ts
+#EXTINF:-1 xui-id="114424" tvg-id="" tvg-name="ES: 7 LA RIOJA FHD" tvg-logo="" group-title="ES | TDT",ES: 7 LA RIOJA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wap5x0xhjqCKkXk0MFQRnv3k/ts
+#EXTINF:-1 xui-id="114425" tvg-id="NOVAEHD" tvg-name="ES: NOVA FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1cz8AdfAsqA0jBwJS0veBL7DV0cUXben2m4S6mMLAb8xQ.png" group-title="ES | TDT",ES: NOVA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wakdYzexfp2dZ3WVzvkkzGfg/ts
+#EXTINF:-1 xui-id="114426" tvg-id="DIVINIT" tvg-name="ES: DIVINITY FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUac2uThnoIIJBSJV-wBUPmzHXnMbr1theti2LMlpWgsBtDvUbTfQ3X48h8Fm-nB7xCw.png" group-title="ES | TDT",ES: DIVINITY FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wand0RpgYX3AloAgJGfaPfBE/ts
+#EXTINF:-1 xui-id="114427" tvg-id="SOMO" tvg-name="ES: SOMOS FHD" tvg-logo="http://tv4k.me:80/images/J29ETnYF-hFNtcZP9J35wmN0wdqOH6yOXKhhiLMmMwylmkHZWudwZ4NqO0aOlhObKJcSrjCeO18TgrgC65pXO3nnvL78dReE4G8D5y9wjz6z690ume_Ud2xSoOvAsZjnmX1eRA6gh5uyeG4OvL-DtZn5SApdhh5fq7apdUj40FA.png" group-title="ES | TDT",ES: SOMOS FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wat2c5umYQjurZGc6IEGolik/ts
+#EXTINF:-1 xui-id="114428" tvg-id="ANDALTV" tvg-name="ES: ANDALUCIA TV FHD" tvg-logo="http://tv4k.me:80/images/J29ETnYF-hFNtcZP9J35wmN0wdqOH6yOXKhhiLMmMwylmkHZWudwZ4NqO0aOlhObpNdR3B2O-2hNkUm70MEZN0SxHuxTi6c033612z-Zol4Ql2QXAVOchs-mnpTrGhkayFrul8Wf1qsALLdpizNMf5JpyXX_TMsO2zoJzYqT2q4.png" group-title="ES | TDT",ES: ANDALUCIA TV FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wanRe_9jFUqwK0Ubj2Ck-S04/ts
+#EXTINF:-1 xui-id="114429" tvg-id="" tvg-name="ES: MELILLA TV FHD" tvg-logo="" group-title="ES | TDT",ES: MELILLA TV FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9watcnis7qx3kQLfVLQ-DJFqw/ts
+#EXTINF:-1 xui-id="114430" tvg-id="" tvg-name="ES: INTERECONOMIA FHD" tvg-logo="" group-title="ES | TDT",ES: INTERECONOMIA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waubtpdCaEDFhojfDJA_Ixp8/ts
+#EXTINF:-1 xui-id="114431" tvg-id="TVEIntEu.es" tvg-name="ES: TVE 24H FHD" tvg-logo="" group-title="ES | TDT",ES: TVE 24H FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wamIiYG1x-GxSp-eYOAM00fU/ts
+#EXTINF:-1 xui-id="114432" tvg-id="CNNILSA" tvg-name="ES: CNN FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUac2uThnoIIJBSJV-wBUPmzFCe_DuKt7G8PkVUwsGAjNF5Klvj107w9eSErr_Z8fODA.png" group-title="ES | TDT",ES: CNN FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waldTqcqP_va6n9RwjRw57Bo/ts
+#EXTINF:-1 xui-id="114433" tvg-id="DBLMISA" tvg-name="ES: BLOOMBERG FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1evR9ORsUYe-DKwRpdeJQSK-Qp2XeEevFZWXbzhdSVByQ.png" group-title="ES | TDT",ES: BLOOMBERG FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9walyuY1F3lRlQNnacgjM5GLs/ts
+#EXTINF:-1 xui-id="114434" tvg-id="TOROS" tvg-name="ES: TOROS FHD" tvg-logo="http://tv4k.me:80/images/J29ETnYF-hFNtcZP9J35wmN0wdqOH6yOXKhhiLMmMwylmkHZWudwZ4NqO0aOlhObKJcSrjCeO18TgrgC65pXO4GX6tYsOG8UCEcLVNaPkOE8w9rwIRlZvJpQBVxVS7eWgCkljJZQlv_ZZqUYKUg8iujlOlrISY7xqBYJO9U42BQ.png" group-title="ES | TDT",ES: TOROS FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wap7wXk9TjZZrQf16DHRdzoY/ts
+#EXTINF:-1 xui-id="114435" tvg-id="" tvg-name="ES: RTVCE CEUTA FHD" tvg-logo="" group-title="ES | TDT",ES: RTVCE CEUTA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wah--HUVuHioKezorYarI-nc/ts
+#EXTINF:-1 xui-id="114436" tvg-id="" tvg-name="ES: CANAL MALAGA FHD" tvg-logo="" group-title="ES | TDT",ES: CANAL MALAGA FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wajGzp7kzjxdbkjBM9E7-ISA/ts
+#EXTINF:-1 xui-id="114437" tvg-id="CadenaA.bo" tvg-name="ES: CADENA SER FHD" tvg-logo="" group-title="ES | TDT",ES: CADENA SER FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9waqZfqjHrBo_HqRc57962xNc/ts
+#EXTINF:-1 xui-id="114438" tvg-id="Cero.es" tvg-name="ES: ONDA CERO FHD" tvg-logo="" group-title="ES | TDT",ES: ONDA CERO FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wagH4TF3BG1y6Eh7qabSKUiQ/ts
+#EXTINF:-1 xui-id="114439" tvg-id="" tvg-name="ES: 40 PRINCIPALES FHD" tvg-logo="" group-title="ES | TDT",ES: 40 PRINCIPALES FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9walhemttlDmoDK3JgChlEUgo/ts
+#EXTINF:-1 xui-id="114440" tvg-id="" tvg-name="ES: M80 FHD" tvg-logo="" group-title="ES | TDT",ES: M80 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9warHr9VFhnmZdF6OUMnOcmZo/ts
+#EXTINF:-1 xui-id="139099" tvg-id="4.L" tvg-name="ES: DAZN 4 FHD" tvg-logo="" group-title="ES | DESPORTES",ES: DAZN 4 FHD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wat8SFLlcEw9CXpuoCHvpCHw/ts
+#EXTINF:-1 xui-id="113593" tvg-id="" tvg-name="ES: DREAMWORKS SD" tvg-logo="" group-title="ES | NINOS",ES: DREAMWORKS SD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wankhRcLgqLoU6u8YJPs_V8Y/ts
+#EXTINF:-1 xui-id="392447" tvg-id="" tvg-name="ES: MUNDOTORO TV HD" tvg-logo="http://mpk4.site:8080/images/95804e1cc1bac558f9e1eb9ae5d8c9b0.jpg" group-title="ES | DESPORTES",ES: MUNDOTORO TV HD
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9warGBi-kI_0vNPdZ6hgo70OA/ts
+#EXTINF:-1 xui-id="113544" tvg-id="" tvg-name="ES: KANAL D DRAMA" tvg-logo="" group-title="ES | TDT",ES: KANAL D DRAMA
+http://tv4k.me:80/play/OMhr5I_dlsEEPJoS6k9wasSXKMQil_YWV5xDtIXNLu0/ts
