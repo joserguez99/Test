@@ -3,3 +3,5 @@
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="PassionXXX" group-title="Adult",PassionXXX
 https://vod-vip5.streaming.in2ip.nl/odm-live/_definst_/smil:smil/uFb1jPHMzmgTt48HfXFkT8NOiZSE4qBo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PassionXXX2" group-title="Adult2",PassionXXX2
+https://vod-vip5.streaming.in2ip.nl/odm-live/_definst_/smil:smil/uFb1jPHMzmgTt48HfXFkT8NOiZSE4qBo.smil/chunklist_w2013528366_b4000000.m3u8
